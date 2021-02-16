@@ -19,6 +19,7 @@ Disciplina cursada na UFABC em 2021.1, ministrada pelo [Prof. Dr. Ronaldo Cristi
     - [Densidade dos dados](#densidade-dos-dados)
     - [Abordagem paramétrica](#abordagem-paramétrica)
     - [Abordagem não-paramétrica](#abordagem-não-paramétrica)
+  - [Aula 4 - Análise Exploratória de Dados (EDA) com Python e Pandas](#aula-4---análise-exploratória-de-dados-eda-com-python-e-pandas)
 
 ## [Aula 1](https://youtu.be/udtIrcRKGS8) - Introdução
 
@@ -284,3 +285,5 @@ O último fator que precisa ser determinado é a largura apropriada. Embora esse
 - Conforme $h$ aumenta, a curva se torna mais suave, podendo simplificar demais a aproximação.
 
 Existem diferentes heurísticas baseadas em hipóteses sobre os dados que funcionam corretamente quando as hipóteses se mostram verdadeiras. Porém em geral, esse é mais um hiperparâmetro que deve ser otimizado.
+
+## [Aula 4 - Análise Exploratória de Dados (EDA) com Python e Pandas](https://github.com/eshiraishi/mineracao-de-dados/blob/main/04_EDA.ipynb)
